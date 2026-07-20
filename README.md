@@ -106,6 +106,24 @@ I am currently looking for **UK and International clients** and available for fr
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaseerAhmad-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmad-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BaseerAhmad-ai&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaseerAhmad-ai&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+
 ## 🌱 Currently Learning
 - Advanced Next.js
 - Scalable Backend Architecture  
