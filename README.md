@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm baseer Ahmad
+# 👋 Hi, I'm Baseer Ahmad
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Open+for+Freelance+Projects;Available+for+UK+%26+International+Clients" />
 
@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I'm **baseer Ahmad**, a passionate **Full Stack MERN Developer** from **Islamabad, Pakistan**.
+I'm **Baseer Ahmad**, a passionate **Full Stack Web Developer** from **Islamabad, Pakistan**.
 
 I enjoy building modern, scalable, fast and responsive web applications using the latest JavaScript technologies.
 
@@ -26,7 +26,7 @@ I am currently looking for **UK and International clients** and available for fr
 
 ## 🚀 What I Do
 
-- ✅ Full Stack MERN Development
+- ✅ Full Stack Web Development
 - ✅ Responsive Websites & SPA
 - ✅ REST API Development & Integration  
 - ✅ Authentication & Authorization
@@ -106,23 +106,6 @@ I am currently looking for **UK and International clients** and available for fr
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baseer-Ahmad-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseer-Ahmad-AI&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baseer-Ahmad-AI&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baseer-Ahmad-AI&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
 ## 🌱 Currently Learning
 - Advanced Next.js
 - Scalable Backend Architecture  
@@ -140,10 +123,10 @@ I am currently looking for **UK and International clients** and available for fr
 <a href="mailto:baseer000ahmed@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/baseer-ahmed">
+<a href="https://linkedin.com/in/BaseerAhmed">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/baseer-Ahmad-AI">
+<a href="https://github.com/BaseerAhmad-ai">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
