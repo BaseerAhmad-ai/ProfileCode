@@ -28,7 +28,7 @@ I am currently looking for **UK and International clients** and available for fr
 
 - ✅ Full Stack Web Development
 - ✅ Responsive Websites & SPA
-- ✅ REST API Development & Integration  
+- ✅ REST API Development & Integration
 - ✅ Authentication & Authorization
 - ✅ Web Optimization & Bug Fixing
 - ✅ MongoDB & PostgreSQL Database Design
@@ -38,6 +38,7 @@ I am currently looking for **UK and International clients** and available for fr
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
+
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -49,6 +50,7 @@ I am currently looking for **UK and International clients** and available for fr
 </p>
 
 ### ⚙ Backend
+
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -56,12 +58,14 @@ I am currently looking for **UK and International clients** and available for fr
 </p>
 
 ### 🗄 Database
+
 <p align="left">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
+
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -75,12 +79,14 @@ I am currently looking for **UK and International clients** and available for fr
 ## 💼 Services I Provide
 
 ### 🌐 Web Development
+
 - Responsive Website Development
 - Landing Pages & Business Websites
 - Portfolio Websites
 - Single Page Applications
 
 ### ⚙️ MERN Stack Development
+
 - Full Stack MERN Applications
 - JWT Authentication
 - CRUD Applications & Admin Dashboard
@@ -88,6 +94,7 @@ I am currently looking for **UK and International clients** and available for fr
 - Secure Backend Architecture
 
 ### 🚀 Performance & Optimization
+
 - Website Speed Optimization
 - Bug Fixing & Code Refactoring
 - SEO-Friendly Development
@@ -97,10 +104,12 @@ I am currently looking for **UK and International clients** and available for fr
 ## 📂 Featured Projects
 
 ### 🛒 E-Commerce Website
+
 **Features:** Responsive Design, Secure Auth, Product & Order Management, Admin Dashboard, REST API  
 **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
 ### 🏥 Hospital Management System
+
 **Features:** Patient & Doctor Management, Appointment Booking, Dashboard, Auth, REST API  
 **Tech Stack:** `Next.js` • `TypeScript` • `Node.js` • `Express.js` • `PostgreSQL`
 
@@ -109,29 +118,25 @@ I am currently looking for **UK and International clients** and available for fr
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaseerAhmad-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaseerAhmad-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaseerAhmad-ai&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaseerAhmad-ai&theme=tokyo-night&hide_border=true"/>
 </div>
-
+git push -u origin mainyy
 ---
 
-
 ## 🌱 Currently Learning
+
 - Advanced Next.js
-- Scalable Backend Architecture  
+- Scalable Backend Architecture
 - Cloud Technologies & System Design
 
 ## 🎯 Development Principles
-✔ Clean Code  ✔ Reusable Components  ✔ Mobile First  
-✔ Performance Focused  ✔ Scalable Architecture
+
+✔ Clean Code ✔ Reusable Components ✔ Mobile First  
+✔ Performance Focused ✔ Scalable Architecture
 
 ---
 
@@ -152,6 +157,7 @@ I am currently looking for **UK and International clients** and available for fr
 ---
 
 ## 💼 Available For
+
 - ✅ Freelance Projects & Remote Opportunities
 - ✅ Full Stack MERN Development
 - ✅ UK & International Clients
@@ -162,11 +168,13 @@ I am currently looking for **UK and International clients** and available for fr
 <div align="center">
 
 ### 👀 Profile Views
+
 <img src="https://komarev.com/ghpvc/?username=baseer-Ahmad-AI&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <br><br>
 
 ### 🚀 Thanks for Visiting My Profile!
+
 **"Building modern, scalable and user-friendly web applications with passion."**
 
 </div>
