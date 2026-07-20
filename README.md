@@ -1,106 +1,171 @@
-<!-- # 👋 Hi, I'm Baseer Ahmad
+<div align="center">
 
-**Full-Stack Developer** | Node | Express | Next | MongoDB
+# 👋 Hi, I'm baseer Ahmad
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Open+for+Freelance+Projects;Available+for+UK+%26+International+Clients" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelancer-Available-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 💫 About Me
+
+I'm **baseer Ahmad**, a passionate **Full Stack MERN Developer** from **Islamabad, Pakistan**.
+
+I enjoy building modern, scalable, fast and responsive web applications using the latest JavaScript technologies.
+
+I am currently looking for **UK and International clients** and available for freelance opportunities.
 
 ---
 
-## 🚀 About Me
-- 💻 I build responsive and modern websites
-- 🌱 Learning: **Next.js & TypeScript**
-- 📍 From: **Islamabad, Pakistan**
+## 🚀 What I Do
 
-## 🛠️ Tech Stack
-`React` `TypeScript` `Tailwind CSS` `Next` `Node` `Express` `MongoDB` `Git`
-
-## 📂 My Projects
-
-### 1. Portfolio Website
-A beautiful responsive portfolio with dark mode.
-- **Tech**: React, Tailwind, Express, Node
-- **[Live Demo](https://BaseerAhmad.com)** | **[GitHub](https://github.com/BaseerAhmad-ai/ProfileCode)**
-
-### 2. E-commerce Dashboard  
-Admin panel with charts and data.
-- **Tech**: React, Chart.js
-- **[Live Demo](https://your-link.com)** | **[GitHub](https://github.com/BaseerAhmad-ai/ProfileCode)**
-
-## 📫 Contact Me
-- **Email**: baseer000ahmad@gmail.com
-- **LinkedIn**: [linkedin.com/in/BaseerAhmad](https://linkedin.com)
+- ✅ Full Stack MERN Development
+- ✅ Responsive Websites & SPA
+- ✅ REST API Development & Integration  
+- ✅ Authentication & Authorization
+- ✅ Web Optimization & Bug Fixing
+- ✅ MongoDB & PostgreSQL Database Design
 
 ---
-⭐ Thanks for visiting! -->
 
-<h1 align="center">Hi 👋, I'm Baseer Ahmad</h1>
-<h3 align="center">Full Stack MERN Developer | React • Node.js • Express • MongoDB</h3>
+## 💻 Tech Stack
 
-<p align="center">
-  Building modern, scalable and responsive web applications.
+### 🎨 Frontend
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+### ⚙ Backend
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
+
+### 🗄 Database
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🛠 Tools
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 Services I Provide
 
-- 💻 Full Stack MERN Stack Developer
-- 🌱 Currently learning advanced backend & cloud technologies
-- 🎯 Passionate about clean code and modern UI/UX
-- 🤝 Available for Freelance Projects
-- 📍 Based in Pakistan | Working with UK & International Clients
+### 🌐 Web Development
+- Responsive Website Development
+- Landing Pages & Business Websites
+- Portfolio Websites
+- Single Page Applications
 
----
+### ⚙️ MERN Stack Development
+- Full Stack MERN Applications
+- JWT Authentication
+- CRUD Applications & Admin Dashboard
+- REST API Development & Integration
+- Secure Backend Architecture
 
-## 🛠 Tech Stack
-
-**Frontend** 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🚀 Performance & Optimization
+- Website Speed Optimization
+- Bug Fixing & Code Refactoring
+- SEO-Friendly Development
 
 ---
 
-## 📈 GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BaseerAhmad-ai&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BaseerAhmad-ai&theme=tokyonight"/>
-</p>
+### 🛒 E-Commerce Website
+**Features:** Responsive Design, Secure Auth, Product & Order Management, Admin Dashboard, REST API  
+**Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
 
----
-
-## 💼 Services
-
-✅ Responsive Websites  
-✅ MERN Stack Development  
-✅ REST API Development  
-✅ Bug Fixing  
-✅ Website Optimization  
+### 🏥 Hospital Management System
+**Features:** Patient & Doctor Management, Appointment Booking, Dashboard, Auth, REST API  
+**Tech Stack:** `Next.js` • `TypeScript` • `Node.js` • `Express.js` • `PostgreSQL`
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Statistics
 
-📧 **Email**: your@email.com  
-💼 **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baseer-Ahmad-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baseer-Ahmad-AI&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baseer-Ahmad-AI&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baseer-Ahmad-AI&theme=tokyo-night&hide_border=true"/>
+</div>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+## 🌱 Currently Learning
+- Advanced Next.js
+- Scalable Backend Architecture  
+- Cloud Technologies & System Design
+
+## 🎯 Development Principles
+✔ Clean Code  ✔ Reusable Components  ✔ Mobile First  
+✔ Performance Focused  ✔ Scalable Architecture
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+<a href="mailto:baseer000ahmed@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/baseer-ahmed">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/baseer-Ahmad-AI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+
+---
+
+## 💼 Available For
+- ✅ Freelance Projects & Remote Opportunities
+- ✅ Full Stack MERN Development
+- ✅ UK & International Clients
+- ✅ Long-Term Collaboration
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=baseer-Ahmad-AI&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<br><br>
+
+### 🚀 Thanks for Visiting My Profile!
+**"Building modern, scalable and user-friendly web applications with passion."**
+
+</div>
