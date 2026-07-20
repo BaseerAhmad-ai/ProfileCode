@@ -1,4 +1,32 @@
-# Baseer Ahmad
-## Hi, I had want a full stack profile according to US standard .
-### So, I make full Stack website. Truly, I make my profile and later I get suggation from  ChatGPT for design and after this I make this website. Its code I own write without any AI help. 
-### I learn web development from YouTube by Thapa Technical.
+# 👋 Hi, I'm Baseer Ahmad
+
+**Full-Stack Developer** | Node | Express | Next | MongoDB
+
+---
+
+## 🚀 About Me
+- 💻 I build responsive and modern websites
+- 🌱 Learning: **Next.js & TypeScript**
+- 📍 From: **Islamabad, Pakistan**
+
+## 🛠️ Tech Stack
+`React` `TypeScript` `Tailwind CSS` `Next` `Node` `Express` `MongoDB` `Git`
+
+## 📂 My Projects
+
+### 1. Portfolio Website
+A beautiful responsive portfolio with dark mode.
+- **Tech**: React, Tailwind, Express, Node
+- **[Live Demo](https://BaseerAhmad.com)** | **[GitHub](https://github.com/BaseerAhmad-ai/ProfileCode)**
+
+### 2. E-commerce Dashboard  
+Admin panel with charts and data.
+- **Tech**: React, Chart.js
+- **[Live Demo](https://your-link.com)** | **[GitHub](https://github.com/BaseerAhmad-ai/ProfileCode)**
+
+## 📫 Contact Me
+- **Email**: baseer000ahmad@gmail.com
+- **LinkedIn**: [linkedin.com/in/BaseerAhmad](https://linkedin.com)
+
+---
+⭐ Thanks for visiting!
