@@ -1,0 +1,13 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently \"cd client && yarn dev\" \"cd server && yarn dev"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.3"
+  },
+  "dependencies": {}
+}
